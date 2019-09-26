@@ -13,3 +13,7 @@ Kumpulan aplikasi / script yang telah dibongkar
 * [PRO](https://github.com/MrBSTRD13/PRO)
 * [RMBL](https://github.com/MrBSTRD13/RMBL)
 * [PREMIUM](https://github.com/MrBSTRD13/PREMIUM)
+* [Instagram-brute](https://github.com/BL4NK5/Instagram-brute)
+* [scannerweb](https://github.com/iexei/scannerweb)
+* [ddos](https://github.com/wisnusaputra123/ddos)
+* [msfManagement](https://github.com/newbiendeso17/msfManagement)
