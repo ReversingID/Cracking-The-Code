@@ -10,3 +10,6 @@ Kumpulan aplikasi / script yang telah dibongkar
 * [tools](https://github.com/mrlinkerrorsystem/tools)
 * [fbhack](https://github.com/mrlinkerrorsystem/Fbhack)
 * [ddospantangmudur-2019](https://github.com/mrlinkerrorsystem/ddospantangmudur-2019)
+* [PRO](https://github.com/MrBSTRD13/PRO)
+* [RMBL](https://github.com/MrBSTRD13/RMBL)
+* [PREMIUM](https://github.com/MrBSTRD13/PREMIUM)
