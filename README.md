@@ -2,6 +2,7 @@
 Kumpulan aplikasi / script yang telah dibongkar
 
 # Daftar Isi:
+* [asu-v5](https://github.com/ASU-LAB/asu-v5)
 * [mediafire-dl](https://github.com/hatakecnk/mediafire-dl)
 * [bashdecrypt](https://github.com/hatakecnk/BashDecrypt)
 * [scan-IP](https://github.com/cute81/Scan_IP)
