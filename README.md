@@ -23,3 +23,4 @@ Kumpulan aplikasi / script yang telah dibongkar
 * [fb-pro](https://github.com/wareares/fb-pro)
 * [zsc](https://github.com/kurniawanzaty/zsc)
 * [zss](https://github.com/kurniawanzaty/zss)
+* [dwtrojan](https://github.com/LenteraHacker/DWTROJAN)
