@@ -9,6 +9,7 @@ Kumpulan aplikasi / script yang telah dibongkar
 * [ddos-website](https://github.com/Rusmana-ID/ddos-website)
 * [dark](https://github.com/Nilkahis03/Dark)
 * [dark (2)](https://github.com/wareares/dark)
+* [dark 18](https://github.com/Mr-J8k3R/Dark18)
 * [tools](https://github.com/mrlinkerrorsystem/tools)
 * [fbhack](https://github.com/mrlinkerrorsystem/Fbhack)
 * [ddospantangmudur-2019](https://github.com/mrlinkerrorsystem/ddospantangmudur-2019)
