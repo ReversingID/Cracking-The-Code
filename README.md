@@ -25,3 +25,4 @@ Kumpulan aplikasi / script yang telah dibongkar
 * [zsc](https://github.com/kurniawanzaty/zsc)
 * [zss](https://github.com/kurniawanzaty/zss)
 * [dwtrojan](https://github.com/LenteraHacker/DWTROJAN)
+* [recoder](https://github.com/4N71R/recoder)
