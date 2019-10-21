@@ -26,3 +26,7 @@ Kumpulan aplikasi / script yang telah dibongkar
 * [zss](https://github.com/kurniawanzaty/zss)
 * [dwtrojan](https://github.com/LenteraHacker/DWTROJAN)
 * [recoder](https://github.com/4N71R/recoder)
+* [webiplookup](https://github.com/GUNAWAN18ID/webiplookup)
+* [Zombie](https://github.com/thesixtynine/Zombie)
+* [Tembak](https://github.com/BuyutGans/Tembak)
+* [AdLog-V2](https://github.com/mr-runn1n9/AdLog-V2)
