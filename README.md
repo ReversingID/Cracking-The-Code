@@ -30,7 +30,6 @@ Kumpulan aplikasi / script yang telah dibongkar
 * [Zombie](https://github.com/thesixtynine/Zombie)
 * [Tembak](https://github.com/BuyutGans/Tembak)
 * [AdLog-V2](https://github.com/mr-runn1n9/AdLog-V2)
-
 * [dwdh](https://github.com/LenteraHacker/dwdh)
 * [8tools](https://github.com/mr-runn1n9/8tools)
 * [game](https://github.com/mr-runn1n9/game)
