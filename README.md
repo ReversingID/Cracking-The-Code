@@ -36,3 +36,7 @@ Kumpulan aplikasi / script yang telah dibongkar
 * [encrypter-base64](https://github.com/mr-runn1n9/encrypter-base64)
 * [scdeface](https://github.com/IndonesianTheCoder/scdeface)
 * [dark-new](https://github.com/Mrpro556/dark-new)
+* [bashEncrip](https://github.com/clayhacker-max/bashEncrip)
+* [marshalku](https://github.com/clayhacker-max/marshalku)
+* [tol-obfuscate](https://github.com/clayhacker-max/tol-obfuscate)
+* [trjojans](https://github.com/clayhacker-max/trjojans)
